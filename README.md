@@ -5,4 +5,4 @@ This repository has example source code for Project 1. Please treat this code as
 This [Notebook](neural_networks.ipynb) has example code to work on your project assignment.
 
 
-
+#### Disclaimer: Please feel free to rewrite the code on your own if you find any issues, Thanks
