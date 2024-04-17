@@ -8,7 +8,7 @@ However, it is hard to find the optimal neurons in the architecture.
 
 First observed, by [Preetham et. al](https://arxiv.org/abs/1912.02292), also reported at [Open AI](https://openai.com/research/deep-double-descent)
 Over-parameterization or over-fitting is expected to increase the test error, however in case of neural networks, as we increase the number of parameters
-test error decreases, which is great as we need not worry much about the optimizing the number of neurons in the architecture.
+test error decreases, which is great as we need not worry much about optimizing the number of neurons in the architecture.
 
 
 # Notebook
